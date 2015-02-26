@@ -1,0 +1,32 @@
+Let x = 0
+Let y = 1
+Let w = 0
+Let z = 1
+Let q = 0
+Let i = 1
+Let j = 0
+Let k = 1
+Let u = 0
+s + t = 1
+2 = 2 + 4
+y = 4 +  3 * 7 / 3  - 1
+w = 4 +  3 * 7 / 3 
+x = 3 * 7 / 3  - 1
+z = 3 * 7 / 3
+q = 3 * 7
+i = 3 - 1 * w 
+j = 4 * z / 3 + 99
+k = 4 + 1
+u = 21 - 11
+k = 4 + k
+o = 4 / 2
+o = k + o
+Print q
+Print u
+Print w
+Print x
+Print y
+Print i
+Print z
+Print j
+Print k 
